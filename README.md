@@ -1,6 +1,3 @@
-<h1 align="center">
- <img src="image-url-here" />
-</h1>
 
 <h1 align="center">Hi 👋, I'm Travis Gunter</h1>
 <h3 align="center">Hey I'm Travis, a Full-Stack software engineer in training. I like to build websites and blockchain applications! Check me out!</h3>
