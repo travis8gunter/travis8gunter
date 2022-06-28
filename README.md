@@ -12,13 +12,13 @@
 
 - 🤝 I’m looking for help with **JavaScript frameworks**
 
-- 👨‍💻 All of my projects are available at [https://travis8gunter.github.io/Portfolio2021/](https://travis8gunter.github.io/Portfolio2021/)
+- 👨‍💻 All of my projects are available at [https://travis8gunter.github.io/TravWebsite2021/](https://travis8gunter.github.io/TravWebsite2021/)
 
 - 💬 Ask me about **Crypto and Web3.0**
 
-- 📫 How to reach me **https://travis8gunter.github.io/Portfolio2021/**
+- 📫 How to reach me **https://travis8gunter.github.io/TravWebsite2021/**
 
-- 📄 Know about my experiences [https://travis8gunter.github.io/Portfolio2021/](https://travis8gunter.github.io/Portfolio2021/)
+- 📄 Know about my experiences [https://travis8gunter.github.io/TravWebsite2021/](https://travis8gunter.github.io/TravWebsite2021/)
 
 - ⚡ Fun fact **I am a twin**
 
