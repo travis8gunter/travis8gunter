@@ -1,14 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Travis Gunter</h1>
-<h3 align="center">an IT specialist with a deep passion for cybersecurity and blockchain technology. With a solid background in IT operations and software development, I've honed my skills in creating secure, resilient digital infrastructures and exploring the innovative potential of blockchain.
-
-🔒 My focus lies in cybersecurity, where I apply rigorous security protocols and practices to safeguard systems and data. From threat assessments to implementing robust defenses, my goal is to preempt vulnerabilities and protect against evolving digital threats.
-
-🌐 Blockchain fascinates me for its promise of decentralized, transparent solutions. I'm actively engaged in projects that explore its application in enhancing security and operational efficiency, believing in its power to revolutionize traditional IT landscapes.
-
-💻 My GitHub is a portfolio of my journey through IT and tech, showcasing projects that blend development with IT expertise. I thrive on collaboration and innovation, eager to connect with like-minded professionals who are pushing the boundaries of technology.
-
-🤝 Let’s connect if you share an interest in the transformative potential of IT, cybersecurity, and blockchain. I'm always open to discussing new technologies, projects, or just geeking out over the latest in tech.</h3>
+<h3 align="center">an IT specialist with a deep passion for cybersecurity and blockchain technology. With a solid background in IT operations and software development, I've honed my skills in creating secure, resilient digital infrastructures and exploring the innovative potential of blockchain. 🔒 My focus lies in cybersecurity, where I apply rigorous security protocols and practices to safeguard systems and data. From threat assessments to implementing robust defenses, my goal is to preempt vulnerabilities and protect against evolving digital threats. 🌐 Blockchain fascinates me for its promise of decentralized, transparent solutions. I'm actively engaged in projects that explore its application in enhancing security and operational efficiency, believing in its power to revolutionize traditional IT landscapes. 💻 My GitHub is a portfolio of my journey through IT and tech, showcasing projects that blend development with IT expertise. I thrive on collaboration and innovation, eager to connect with like-minded professionals who are pushing the boundaries of technology. 🤝 Let’s connect if you share an interest in the transformative potential of IT, cybersecurity, and blockchain. I'm always open to discussing new technologies, projects, or just geeking out over the latest in tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=travis8gunter&label=Profile%20views&color=0e75b6&style=flat" alt="travis8gunter" /> </p>
 
