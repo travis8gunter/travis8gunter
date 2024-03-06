@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Crypto and Web3.0**
 
-- 📫 How to reach me **https://travis8gunter.github.io/TravWebsite2021/**
+- 📫 How to reach me **[https://travis8gunter.github.io/TravWebsite2021/](https://www.linkedin.com/in/travis-gunter2021/)**
 
 - 📄 Know about my experiences [https://travis8gunter.github.io/TravWebsite2021/](https://travis8gunter.github.io/TravWebsite2021/)
 
@@ -35,7 +35,7 @@
 <a href="https://twitter.com/travis8gunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="travis8gunter" height="30" width="40" /></a>
 <a href="https://instagram.com/travis_gunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="travis_gunter" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucjx2px7j6ndrq_qbv870sda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjx2px7j6ndrq_qbv870sda" height="30" width="40" /></a>
-<a href="//www.linkedin.com/in/travis-gunter2021/" height="30" width="40" /> </a>
+<a href="[//www.linkedin.com/in/travis-gunter2021/](https://www.linkedin.com/in/travis-gunter2021/)" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
